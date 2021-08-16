@@ -1,0 +1,21 @@
+.page {
+	font-size: 30px;
+}
+
+.header {
+	height: 60px;
+	padding: 10px;
+	background: #844;
+}
+
+.main {
+	background: #484;
+	height: 60px;
+	padding: 10px;
+}
+
+.footer {
+	background: #448;
+	height: 60px;
+	padding: 10px;
+}
